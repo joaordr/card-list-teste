@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border-top: 1px solid black;
+    padding-top: 10px;
+
+}
+
+.content {
+    display: flex;
+    align-items: center;
+
+    p {
+        margin: 0 10px;
+    }
+}
